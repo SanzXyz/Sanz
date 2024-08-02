@@ -1,0 +1,16 @@
+.test {
+  display: grid;
+  place-items: center;
+  background: blue;
+}
+
+testt {
+  display: grid;
+  place-items: left;
+  place-items: center;
+}
+
+testtt {
+  grid-area: bottom;
+  
+}
